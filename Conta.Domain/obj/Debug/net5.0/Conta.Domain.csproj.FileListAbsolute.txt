@@ -1,0 +1,12 @@
+C:\Users\willi\source\repos\Conta\Conta.Domain\bin\Debug\net5.0\Conta.Domain.deps.json
+C:\Users\willi\source\repos\Conta\Conta.Domain\bin\Debug\net5.0\Conta.Domain.dll
+C:\Users\willi\source\repos\Conta\Conta.Domain\bin\Debug\net5.0\ref\Conta.Domain.dll
+C:\Users\willi\source\repos\Conta\Conta.Domain\bin\Debug\net5.0\Conta.Domain.pdb
+C:\Users\willi\source\repos\Conta\Conta.Domain\obj\Debug\net5.0\Conta.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\Conta\Conta.Domain\obj\Debug\net5.0\Conta.Domain.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\Conta\Conta.Domain\obj\Debug\net5.0\Conta.Domain.AssemblyInfo.cs
+C:\Users\willi\source\repos\Conta\Conta.Domain\obj\Debug\net5.0\Conta.Domain.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Conta\Conta.Domain\obj\Debug\net5.0\Conta.Domain.dll
+C:\Users\willi\source\repos\Conta\Conta.Domain\obj\Debug\net5.0\ref\Conta.Domain.dll
+C:\Users\willi\source\repos\Conta\Conta.Domain\obj\Debug\net5.0\Conta.Domain.pdb
+C:\Users\willi\source\repos\Conta\Conta.Domain\obj\Debug\net5.0\Conta.Domain.csprojAssemblyReference.cache
