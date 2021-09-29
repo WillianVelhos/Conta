@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ncQbF05DUMXl6VqjECP0FZo3URqE/+O625HE9QbjiN6P3ZRhDsNt03wu1PF9BilPqDf81BzesBd3V6oP0eWzcg==",
+  "dgSpecHash": "ywLR7RQgo7mgay4rD6960oJnjQSJrdewlTKPCDby9TltEcbfc4ABWJhwLNCCjbtGUrwLwOneoeKwe2MmlKiewQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\willi\\source\\repos\\Conta\\Conta.Application\\Conta.Application.csproj",
+  "projectFilePath": "C:\\Users\\willi\\Desktop\\Conta\\Conta.Application\\Conta.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\willi\\.nuget\\packages\\mapster\\7.2.0\\mapster.7.2.0.nupkg.sha512",
     "C:\\Users\\willi\\.nuget\\packages\\mapster.core\\1.2.0\\mapster.core.1.2.0.nupkg.sha512",

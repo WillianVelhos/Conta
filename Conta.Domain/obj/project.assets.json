@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\willi\\source\\repos\\Conta\\Conta.Domain\\Conta.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\willi\\Desktop\\Conta\\Conta.Domain\\Conta.Domain.csproj",
       "projectName": "Conta.Domain",
-      "projectPath": "C:\\Users\\willi\\source\\repos\\Conta\\Conta.Domain\\Conta.Domain.csproj",
+      "projectPath": "C:\\Users\\willi\\Desktop\\Conta\\Conta.Domain\\Conta.Domain.csproj",
       "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\willi\\source\\repos\\Conta\\Conta.Domain\\obj\\",
+      "outputPath": "C:\\Users\\willi\\Desktop\\Conta\\Conta.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

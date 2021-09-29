@@ -17,7 +17,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Application", "2. Applic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conta.Application", "Conta.Application\Conta.Application.csproj", "{F2356AA9-E726-46B6-94B8-797875EBE2DC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conta.Data", "ClassLibrary1\Conta.Data.csproj", "{0168EF91-005C-4ACD-809E-6EBF54721992}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conta.Data", "Conta.Data\Conta.Data.csproj", "{0168EF91-005C-4ACD-809E-6EBF54721992}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Tests", "5. Tests", "{C51BA165-332F-4780-9428-B03CD97E3CF1}"
 EndProject

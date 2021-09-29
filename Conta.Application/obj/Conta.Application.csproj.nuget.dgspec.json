@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\willi\\source\\repos\\Conta\\Conta.Application\\Conta.Application.csproj": {}
+    "C:\\Users\\willi\\Desktop\\Conta\\Conta.Application\\Conta.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\willi\\source\\repos\\Conta\\Conta.Application\\Conta.Application.csproj": {
+    "C:\\Users\\willi\\Desktop\\Conta\\Conta.Application\\Conta.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\willi\\source\\repos\\Conta\\Conta.Application\\Conta.Application.csproj",
+        "projectUniqueName": "C:\\Users\\willi\\Desktop\\Conta\\Conta.Application\\Conta.Application.csproj",
         "projectName": "Conta.Application",
-        "projectPath": "C:\\Users\\willi\\source\\repos\\Conta\\Conta.Application\\Conta.Application.csproj",
+        "projectPath": "C:\\Users\\willi\\Desktop\\Conta\\Conta.Application\\Conta.Application.csproj",
         "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\willi\\source\\repos\\Conta\\Conta.Application\\obj\\",
+        "outputPath": "C:\\Users\\willi\\Desktop\\Conta\\Conta.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -33,8 +33,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\willi\\source\\repos\\Conta\\Conta.Domain\\Conta.Domain.csproj": {
-                "projectPath": "C:\\Users\\willi\\source\\repos\\Conta\\Conta.Domain\\Conta.Domain.csproj"
+              "C:\\Users\\willi\\Desktop\\Conta\\Conta.Domain\\Conta.Domain.csproj": {
+                "projectPath": "C:\\Users\\willi\\Desktop\\Conta\\Conta.Domain\\Conta.Domain.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\willi\\source\\repos\\Conta\\Conta.Domain\\Conta.Domain.csproj": {
+    "C:\\Users\\willi\\Desktop\\Conta\\Conta.Domain\\Conta.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\willi\\source\\repos\\Conta\\Conta.Domain\\Conta.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\willi\\Desktop\\Conta\\Conta.Domain\\Conta.Domain.csproj",
         "projectName": "Conta.Domain",
-        "projectPath": "C:\\Users\\willi\\source\\repos\\Conta\\Conta.Domain\\Conta.Domain.csproj",
+        "projectPath": "C:\\Users\\willi\\Desktop\\Conta\\Conta.Domain\\Conta.Domain.csproj",
         "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\willi\\source\\repos\\Conta\\Conta.Domain\\obj\\",
+        "outputPath": "C:\\Users\\willi\\Desktop\\Conta\\Conta.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
